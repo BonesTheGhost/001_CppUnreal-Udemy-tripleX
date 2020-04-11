@@ -1,7 +1,7 @@
 ==============================================================
 April 9th 2020::
 
-This small C++ game was started on April the 7th 2020. I am following a Udemy course (aobut 3 hours so far) in an effort to learn about C++, primarily for the current purpose of learning to use the Unreal Engine and explore game asset creation, modeling, animating, etc. (Essentially, I would like to be able to perform the "full stack" of game development). It is very ambitious, but the first step has been taken.
+This small C++ game was started on April the 7th 2020. I am following a Udemy course (about 3 hours so far) in an effort to learn about C++, primarily for the current purpose of learning to use the Unreal Engine and explore game asset creation, modeling, animating, etc. (Essentially, I would like to be able to perform the "full stack" of game development). It is very ambitious, but the first step has been taken.
 
 As such, the code present in this repository is NOT ENTIRELY of my origin. What this means is that though I am following along with the videos step-by-step and manually entering the code and debugging in order to maximize the educaitonal value, much of the core program is provided for learning purposes through the course.
 
